@@ -15,8 +15,8 @@ export default function Contact() {
         }}
       />
       <Head>
-        <title>nine4</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Carraway</title>
+        <link rel="icon" href="/cLogo.ico" />
       </Head>
       <Header />
       <div className="flex flex-col justify-center mx-auto mt-52 text-center max-w-2x1">

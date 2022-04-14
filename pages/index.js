@@ -16,8 +16,8 @@ export default function Home() {
         }}
       />
       <Head>
-        <title>nine4</title>
-        <link rel="icon" href="/favicon.png" />
+        <title>Carraway</title>
+        <link rel="icon" href="/cLogo.png" />
       </Head>
       <Header />
       <Main />
