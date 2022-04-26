@@ -125,7 +125,34 @@ export default function Main() {
           </div> */}
         </div>
 
-        
+        <div className="container flex flex-col items-center justify-center mx-auto object-cover object-center w-3/4 mb-10 border shadow-md g327" />
+        <h2 className="pt-10 mb-1 text-2xl font-semibold text-black tracking-tighter text-center lg:text-7xl md:text-6xl">
+          Testimonials
+        </h2>
+        <br></br>
+        <p className="mx-auto text-xl text-center text-black font-normal leading-relaxed fs521 lg:w-2/3">
+          Take a look at what our community says about us
+        </p>
+        <div className="pt-12 pb-24 max-w-4xl mx-auto fsac4 md:px-1 px-3" style = {{margin:"auto", display:"flex"}}>
+          <div class="ktq4">
+          <img style = {{margin:"auto", display:"flex", width: "50%"}} src="https://live.staticflickr.com/65535/52032523206_ea53703c1c_z.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Bill Wilson Center
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Letter from the Bill Wilson Center about our school supplies contribution to the foster care system.
+            </p>
+          </div>
+          {/* <div class="ktq4">
+            <img className="w-10" src="https://i.ibb.co/7KJzSLd/rishi-Logo.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Rishi Kumar For Congress
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Designed a full stack website with HTML/CSS/JS and Firebase for connecting students during the pandemic. Designed a mobile ios app for notifications about his campign.
+            </p>
+          </div> */}
+        </div>
 
 
         <div className="container flex flex-col items-center justify-center mx-auto object-cover object-center w-3/4 mb-10 border shadow-md g327" />
