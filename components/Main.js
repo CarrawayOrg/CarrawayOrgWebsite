@@ -106,7 +106,7 @@ export default function Main() {
         </p>
         <div className="pt-12 pb-24 max-w-4xl mx-auto fsac4 md:px-1 px-3" style = {{margin:"auto", display:"flex"}}>
           <div class="ktq4">
-          <img style = {{margin:"auto", display:"flex", width: "50%"}} src="https://i.ibb.co/RH8RV2q/Donate-FOR-School-Supplies-To-Children-In-Foster-Care-2.png"></img>
+          <img style = {{margin:"auto", display:"flex", width: "50%"}} src="https://live.staticflickr.com/65535/52151351584_8eb1872707_k.jpg"></img>
             <h3 class="pt-3 font-semibold text-lg text-white">
               School Supplies Drive
             </h3>
@@ -153,6 +153,64 @@ export default function Main() {
             </p>
           </div> */}
         </div>
+        <div className="container flex flex-col items-center justify-center mx-auto object-cover object-center w-3/4 mb-10 border shadow-md g327" />
+        <h2 className="pt-10 mb-1 text-2xl font-semibold text-black tracking-tighter text-center lg:text-7xl md:text-6xl">
+          About Us
+        </h2>
+        <br></br>
+        <p className="mx-auto text-xl text-center text-black font-normal leading-relaxed fs521 lg:w-2/3">
+          Get To Know Our Members
+        </p>
+        <div className="pt-12 pb-24 max-w-4xl mx-auto fsac4 md:px-1 px-3" style = {{margin:"auto", display:"flex"}}>
+          <div class="ktq4">
+          <img style = {{display:"flex", width: "50%"}} src="https://live.staticflickr.com/65535/52032523206_ea53703c1c_z.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Kshitij Teotia
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Kshitij Teotia is a 11th grader at Evergreen Valley High School. He is experienced in web-dev programming and other forms of computer science. 
+            </p>
+          </div>
+          <div class="ktq4">
+          <img style = {{margin:"auto", display:"flex", width: "50%"}} src="https://live.staticflickr.com/65535/52032523206_ea53703c1c_z.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Vishal Singh
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Vishal Singh is a 12th grader at Evergreen Valley High School.
+            </p>
+          </div>
+          <div class="ktq4">
+          <img style = {{margin:"auto", display:"flex", width: "50%"}} src="https://live.staticflickr.com/65535/52032523206_ea53703c1c_z.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Krish Iyengar
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Krish Iyengar is a 11th grader at Evergreen Valley High School.
+            </p>
+          </div>
+          <div class="ktq4">
+          <img style = {{margin:"auto", display:"flex", width: "50%"}} src="https://live.staticflickr.com/65535/52032523206_ea53703c1c_z.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Sashank Balasu
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Sashank Balasu is a 11th grader at Archbishop Mitty High School.
+            </p>
+          </div>
+          
+
+          {/* <div class="ktq4">
+            <img className="w-10" src="https://i.ibb.co/7KJzSLd/rishi-Logo.jpg"></img>
+            <h3 class="pt-3 font-semibold text-lg text-white">
+              Rishi Kumar For Congress
+            </h3>
+            <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+              Designed a full stack website with HTML/CSS/JS and Firebase for connecting students during the pandemic. Designed a mobile ios app for notifications about his campign.
+            </p>
+          </div> */}
+        </div>
+
 
 
         <div className="container flex flex-col items-center justify-center mx-auto object-cover object-center w-3/4 mb-10 border shadow-md g327" />
